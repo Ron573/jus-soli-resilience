@@ -1,2 +1,3 @@
-# jus-soli-resilience
-NetLogo model and data for the “Jus Soli” article
+# Jus‑Soli Resilience Repository
+
+This repo holds NetLogo model, analysis notebook, and data.

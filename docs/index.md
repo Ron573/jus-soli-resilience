@@ -1,3 +1,5 @@
+<link rel="icon" type="image/x-icon" href="favicon.ico" />
+
 # Assault on *Jus Soli*
 
 **Author**: Ronald J. Botelho  

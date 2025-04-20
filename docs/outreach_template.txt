@@ -1,0 +1,15 @@
+Subject: Final Systems Analysis on Birthright Citizenship and State Dept Reorg (Botelho, 2025)
+
+Dear [Recipient Name],
+
+I'm writing to share the final version of my systems-science analysis of recent efforts to revoke birthright citizenship and dismantle democratic redundancy within U.S. institutions. This study integrates agent-based modeling (NetLogo + Python), resilience metrics, and simulation graphs that demonstrate a projected 38% decline in civic survivability when redundancy and trust decay are coupled.
+
+🔗 GitHub Repository: https://github.com/Ron573/jus-soli-resilience
+📄 PDF (w/ figures): docs/JusSoli_Article_OpEd_WithGraphs.pdf
+
+This is both a scientific and civic warning. I'd greatly value your feedback and am open to collaboration or citation for any upcoming research or editorials.
+
+Warm regards,  
+Ronald J. Botelho  
+Ph.D. Student – Systems Science, SUNY Binghamton  
+rbotelho@binghamton.edu
